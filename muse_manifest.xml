@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="entrelasramas.com,https://entrelasramas.github.io" resolutions="1x,2x" timestamp="1502819118623">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="entrelasramas.com,https://entrelasramas.github.io" resolutions="1x,2x" timestamp="1502819348844">
   <folder name="css">
     <file name="site_global.css" crc="3922070559"/>
     <file name="master_a-master.css" crc="233609589" ref="catálogo:nosotros"/>
@@ -6,7 +6,7 @@
     <file name="master_a-master-logonegro.css" crc="296702460" ref="index"/>
     <file name="cat_logo.css" crc="4049871739" ref="catálogo"/>
     <file name="mensaje-enviado.css" crc="28758282" ref="mensaje-enviado"/>
-    <file name="contacto.css" crc="289329171" ref="contacto"/>
+    <file name="contacto.css" crc="3906109474" ref="contacto"/>
     <file name="nosotros.css" crc="3972692322" ref="nosotros"/>
     <file name="index.css" crc="4019877683" ref="index"/>
   </folder>
@@ -223,8 +223,8 @@
     <file name="raya-_poster_.png" crc="85063549" ref="nosotros"/>
   </folder>
   <file name="index.html" crc="3965508930" seo="true" mt="1502809994516" redirect="true"/>
-  <file name="contacto.html" crc="3813516944" seo="true" mt="1502818671899" redirect="true"/>
+  <file name="contacto.html" crc="240117273" seo="true" mt="1502819329136" redirect="true"/>
   <file name="catálogo.html" crc="4179398063" seo="true" mt="1502810104607" redirect="true"/>
   <file name="mensaje-enviado.html" crc="3948416066" seo="true" mt="1502809696193" redirect="true"/>
-  <file name="nosotros.html" crc="3950479406" seo="true" mt="1502809632854" redirect="true"/>
+  <file name="nosotros.html" crc="86460727" seo="true" mt="1502809632854" redirect="true"/>
 </manifest>
